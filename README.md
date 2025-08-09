@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ronak Gupta!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=DDevOps+Engineer+%7C+Cloud+Infrastructure+Specialist;Building+Scalable+Solutions+%E2%9A%A1+Automating+Everything+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=DevOps+Engineer+%7C+Cloud+Infrastructure;Building+Scalable+Solutions+%E2%9A%A1+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,13 +19,16 @@
 ## 🚀 About Me
 
 ```yaml
-name: Ronak Gupta
-location: Bengaluru, India
-current_role: DevOps Engineer @ SS&C Technologies
-experience: 1.5+ years
-passion: Cloud Infrastructure & Automation
-currently_learning: AWS Solutions Architecture
-fun_fact: Led 300+ volunteers as NSS President 🎯
+kind: Ronak Gupta
+apiVersion: DevOps Engineer @ SS&C Technologies
+experience: "1.5+ years"
+metadata:
+  description: Building Bridge b/w Code & Cloud
+  labels:
+    - CICD
+  namespace: Cloud Maintenance
+path: Bengaluru, India
+skills: AWS Solutions Architecture & DevOps Ecosystem
 ```
 
 🔭 **Currently working on:** Tenant onboarding automation & AWS infrastructure provisioning  
