@@ -121,18 +121,18 @@ timeline
     title Career Journey
     
     2024-Present : DevOps Engineer @ SS&C Technologies
-                 : Tenant onboarding automation
-                 : AWS infrastructure management
-                 : Production support & monitoring
-                 
+                 : AWS Terraform Ansible CICD
+                 : Tenant Onboarding 
+                 : Monitoring (Prometheus, Grafana )
+
     2023-2024    : Java Developer Intern @ Sphinx Solution
-                 : Web application development
-                 : Spring Boot & MySQL projects
-                 : REST API development
+                 : Web & App Development Projects
+                 : SpringBoot, Kotlin, Java, MYSQL
+                 : REST API development & DSA
                  
     2020-2024    : B.Tech Computer Science
-                 : Bharati Vidyapeeth University
-                 : CGPA: 9.02/10
+                 : Bharati Vidyapeeth University: CGPA: 9.02/10
+                 : Computer Science, Networking, Operating System 
                  : NSS President
 ```
 
@@ -142,7 +142,7 @@ timeline
 
 <div align="center">
 
-| 🔭 Working On | 🌱 Learning | 🎯 Goals 2024 |
+| 🔭 Working On | 🌱 Learning | 🎯 Goals 2025 |
 |:---:|:---:|:---:|
 | Tenant Onboarding Automation | AWS Solutions Architecture | Kubernetes Mastery |
 | Infrastructure Provisioning | Advanced Terraform Patterns | Open Source Contributions |
