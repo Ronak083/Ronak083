@@ -1,304 +1,194 @@
-<!DOCTYPE html>
-<html lang="en">
+# 👋 Hi there, I'm Ronak Gupta!
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ronak Gupta - LinkedIn Cover</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=DevOps+Engineer+%7C+Cloud+Infrastructure+Specialist;Building+Scalable+Solutions+%E2%9A%A1+Automating+Everything+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-        .cover-container {
-            width: 1584px;
-            height: 396px;
-            background: linear-gradient(135deg, #0f1419 0%, #1a2332 50%, #2d3748 100%);
-            position: relative;
-            overflow: hidden;
-            font-family: 'Arial', sans-serif;
-        }
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronak083)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronakgupta083@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ronak083)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Ronak083&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
 
-        .grid-pattern {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-image:
-                linear-gradient(rgba(59, 130, 246, 0.1) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(59, 130, 246, 0.1) 1px, transparent 1px);
-            background-size: 50px 50px;
-            animation: gridShift 20s linear infinite;
-        }
+</div>
 
-        @keyframes gridShift {
-            0% {
-                transform: translate(0, 0);
-            }
+---
 
-            100% {
-                transform: translate(50px, 50px);
-            }
-        }
+## 🚀 About Me
 
-        .profile-space {
-            position: absolute;
-            left: 50px;
-            bottom: 50px;
-            width: 180px;
-            height: 180px;
-            border-radius: 50%;
-            background: transparent;
-            border: 3px solid rgba(59, 130, 246, 0.3);
-            box-shadow: 0 0 30px rgba(59, 130, 246, 0.2);
-        }
+```yaml
+name: Ronak Gupta
+location: Bengaluru, India
+current_role: DevOps Engineer @ SS&C Technologies
+experience: 1.5+ years
+passion: Cloud Infrastructure & Automation
+currently_learning: AWS Solutions Architecture
+fun_fact: Led 300+ volunteers as NSS President 🎯
+```
 
-        .content-area {
-            position: absolute;
-            right: 80px;
-            top: 50%;
-            transform: translateY(-50%);
-            color: white;
-            text-align: right;
-            max-width: 800px;
-        }
+🔭 **Currently working on:** Tenant onboarding automation & AWS infrastructure provisioning  
+🌱 **Currently learning:** AWS Certified Solutions Architect (SAA-C03)  
+⚡ **Fun fact:** Completed #100DaysOfCode challenge and shared daily progress!  
+🎯 **2024 Goals:** Master Kubernetes orchestration & contribute to open-source DevOps tools
 
-        .name {
-            font-size: 48px;
-            font-weight: bold;
-            margin-bottom: 15px;
-            background: linear-gradient(135deg, #60a5fa, #3b82f6, #1d4ed8);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            text-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
-        }
+---
 
-        .title {
-            font-size: 24px;
-            color: #e2e8f0;
-            margin-bottom: 20px;
-            font-weight: 300;
-        }
+## 🛠️ Tech Stack & Tools
 
-        .skills-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: flex-end;
-            gap: 12px;
-            margin-bottom: 20px;
-        }
+<div align="center">
 
-        .skill-badge {
-            background: rgba(59, 130, 246, 0.15);
-            border: 1px solid rgba(59, 130, 246, 0.3);
-            padding: 8px 16px;
-            border-radius: 25px;
-            font-size: 14px;
-            color: #93c5fd;
-            backdrop-filter: blur(10px);
-            transition: all 0.3s ease;
-            animation: fadeInUp 0.6s ease-out forwards;
-            opacity: 0;
-            transform: translateY(20px);
-        }
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-        .skill-badge:nth-child(1) {
-            animation-delay: 0.1s;
-        }
+### 🔧 DevOps & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-        .skill-badge:nth-child(2) {
-            animation-delay: 0.2s;
-        }
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white)
 
-        .skill-badge:nth-child(3) {
-            animation-delay: 0.3s;
-        }
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-        .skill-badge:nth-child(4) {
-            animation-delay: 0.4s;
-        }
+### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
-        .skill-badge:nth-child(5) {
-            animation-delay: 0.5s;
-        }
+</div>
 
-        .skill-badge:nth-child(6) {
-            animation-delay: 0.6s;
-        }
+---
 
-        .skill-badge:nth-child(7) {
-            animation-delay: 0.7s;
-        }
+## 📈 GitHub Stats
 
-        .skill-badge:nth-child(8) {
-            animation-delay: 0.8s;
-        }
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronak083&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak083&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
+</div>
 
-        @keyframes fadeInUp {
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak083&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</div>
 
-        .skill-badge:hover {
-            background: rgba(59, 130, 246, 0.25);
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(59, 130, 246, 0.2);
-        }
+---
 
-        .experience {
-            font-size: 16px;
-            color: #cbd5e1;
-            font-weight: 300;
-        }
+## 🏆 Featured Projects
 
-        .highlight {
-            color: #60a5fa;
-            font-weight: 500;
-        }
+<div align="center">
 
-        .floating-icons {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-        }
+[![Cloud Resume Challenge](https://github-readme-stats.vercel.app/api/pin/?username=Ronak083&repo=cloud-resume-challenge&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)](https://github.com/Ronak083/cloud-resume-challenge)
+[![Quorumify](https://github-readme-stats.vercel.app/api/pin/?username=Ronak083&repo=quorumify&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)](https://github.com/Ronak083/quorumify)
 
-        .floating-icon {
-            position: absolute;
-            font-size: 24px;
-            color: rgba(59, 130, 246, 0.15);
-            animation: float 6s ease-in-out infinite;
-        }
+</div>
 
-        .icon-1 {
-            top: 20%;
-            left: 20%;
-            animation-delay: 0s;
-        }
+### 🌟 Project Highlights
 
-        .icon-2 {
-            top: 60%;
-            left: 15%;
-            animation-delay: 1s;
-        }
+#### ☁️ Cloud Resume Challenge
+- **Tech Stack:** Terraform, AWS (S3, CloudFront, Lambda, DynamoDB), GitHub Actions
+- **Features:** Static website with serverless visitor counter, complete IaC automation
+- **Achievement:** 100% Infrastructure as Code with CI/CD pipeline
 
-        .icon-3 {
-            top: 30%;
-            left: 75%;
-            animation-delay: 2s;
-        }
+#### 🗣️ Quorumify - Q&A Platform
+- **Tech Stack:** Java Spring Boot, ReactJS, MySQL, Docker, JWT
+- **Features:** Role-based access, REST APIs, responsive UI, containerized deployment
+- **Achievement:** Full-stack application with security implementation
 
-        .icon-4 {
-            top: 70%;
-            left: 80%;
-            animation-delay: 3s;
-        }
+---
 
-        @keyframes float {
+## 💼 Professional Experience
 
-            0%,
-            100% {
-                transform: translateY(0px) rotate(0deg);
-            }
+```mermaid
+timeline
+    title Career Journey
+    
+    2024-Present : DevOps Engineer @ SS&C Technologies
+                 : Tenant onboarding automation
+                 : AWS infrastructure management
+                 : Production support & monitoring
+                 
+    2023-2024    : Java Developer Intern @ Sphinx Solution
+                 : Web application development
+                 : Spring Boot & MySQL projects
+                 : REST API development
+                 
+    2020-2024    : B.Tech Computer Science
+                 : Bharati Vidyapeeth University
+                 : CGPA: 9.02/10
+                 : NSS President
+```
 
-            50% {
-                transform: translateY(-20px) rotate(180deg);
-            }
-        }
+---
 
-        .location-contact {
-            position: absolute;
-            bottom: 25px;
-            right: 80px;
-            font-size: 14px;
-            color: #94a3b8;
-            display: flex;
-            gap: 20px;
-            align-items: center;
-        }
+## 🎯 Current Focus
 
-        .contact-item {
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
+<div align="center">
 
-        .pulse-dot {
-            width: 8px;
-            height: 8px;
-            background: #10b981;
-            border-radius: 50%;
-            animation: pulse 2s infinite;
-        }
+| 🔭 Working On | 🌱 Learning | 🎯 Goals 2024 |
+|:---:|:---:|:---:|
+| Tenant Onboarding Automation | AWS Solutions Architecture | Kubernetes Mastery |
+| Infrastructure Provisioning | Advanced Terraform Patterns | Open Source Contributions |
+| Microservices Monitoring | GitOps with ArgoCD | Technical Blog Writing |
 
-        @keyframes pulse {
-            0% {
-                box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
-            }
+</div>
 
-            70% {
-                box-shadow: 0 0 0 10px rgba(16, 185, 129, 0);
-            }
+---
 
-            100% {
-                box-shadow: 0 0 0 0 rgba(16, 185, 129, 0);
-            }
-        }
-    </style>
-</head>
+## 🏅 Achievements & Certifications
 
-<body>
-    <div class="cover-container">
-        <div class="grid-pattern"></div>
+- 🎓 **AWS Certified Solutions Architect** (In Progress)
+- 👨‍💼 **NSS President** - Led 300+ volunteers, organized 15+ social events
+- 💻 **100 Days of Code** - Daily coding challenge with public learning
+- 🩸 **Blood Donation Drive** - Organized university's largest donation campaign
+- 🎯 **Academic Excellence** - 9.02 CGPA in Computer Science Engineering
 
-        <div class="floating-icons">
-            <div class="floating-icon icon-1">☁️</div>
-            <div class="floating-icon icon-2">⚙️</div>
-            <div class="floating-icon icon-3">🚀</div>
-            <div class="floating-icon icon-4">🔧</div>
-        </div>
+---
 
-        <!-- Space reserved for profile picture -->
-        <div class="profile-space"></div>
+## 📊 Weekly Development Breakdown
 
-        <div class="content-area">
-            <h1 class="name">Ronak Gupta</h1>
-            <p class="title">DevOps Engineer | Cloud Infrastructure Specialist</p>
+```text
+DevOps & Infrastructure    ████████████████████████░   90%
+Backend Development        ██████████████░░░░░░░░░░░   60% 
+Cloud Architecture         ████████████████████░░░░░   80%
+Automation & Scripting     ████████████████████████░   95%
+Learning & Research        ███████████████░░░░░░░░░░   70%
+```
 
-            <div class="skills-container">
-                <span class="skill-badge">AWS</span>
-                <span class="skill-badge">Kubernetes</span>
-                <span class="skill-badge">Docker</span>
-                <span class="skill-badge">Terraform</span>
-                <span class="skill-badge">Jenkins</span>
-                <span class="skill-badge">Python</span>
-                <span class="skill-badge">CI/CD</span>
-                <span class="skill-badge">Monitoring</span>
-            </div>
+---
 
-            <p class="experience">
-                <span class="highlight">1.5+ years</span> managing cloud infrastructure & production environments<br>
-                Building scalable solutions at <span class="highlight">SS&C Technologies</span>
-            </p>
-        </div>
+## 🌐 Let's Connect!
 
-        <div class="location-contact">
-            <div class="contact-item">
-                <div class="pulse-dot"></div>
-                <span>Available for opportunities</span>
-            </div>
-            <div class="contact-item">
-                <span>📍</span>
-                <span>Bengaluru, India</span>
-            </div>
-        </div>
-    </div>
-</body>
+<div align="center">
 
-</html>
+💬 **Open for opportunities** | 🤝 **Collaboration welcome** | 📚 **Always learning**
+
+[![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronak083)
+[![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronakgupta083@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+</div>
+
+---
+
+⭐ **If you find my work interesting, feel free to star my repositories and connect with me!**
