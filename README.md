@@ -21,7 +21,7 @@
 ```yaml
 kind: Ronak Gupta
 apiVersion: DevOps Engineer @ SS&C Technologies
-experience: "1.5+ years"
+experience: "2 years"
 metadata:
   description: Building Bridge b/w Code & Cloud
   labels:
@@ -59,12 +59,16 @@ skills: AWS Solutions Architecture & DevOps Ecosystem
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white)
 
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
@@ -96,6 +100,7 @@ skills: AWS Solutions Architecture & DevOps Ecosystem
 <div align="center">
 
 [![Cloud Resume Challenge](https://github-readme-stats.vercel.app/api/pin/?username=Ronak083&repo=cloud-resume-challenge&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)](https://github.com/Ronak083/cloud-resume-challenge)
+[![InfraOps - EKS Platform](https://github-readme-stats.vercel.app/api/pin/?username=Ronak083&repo=Kubernetes&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)](https://github.com/Ronak083/Kubernetes)
 [![Quorumify](https://github-readme-stats.vercel.app/api/pin/?username=Ronak083&repo=quorumify&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)](https://github.com/Ronak083/quorumify)
 
 </div>
@@ -106,6 +111,11 @@ skills: AWS Solutions Architecture & DevOps Ecosystem
 - **Tech Stack:** Terraform, AWS (S3, CloudFront, Lambda, DynamoDB), GitHub Actions
 - **Features:** Static website with serverless visitor counter, complete IaC automation
 - **Achievement:** 100% Infrastructure as Code with CI/CD pipeline
+
+#### ⚙️ InfraOps — EKS Platform
+- **Tech Stack:** AWS EKS, Helm, GitHub Actions, ECR, Prometheus, Grafana
+- **Features:** Containerised app deployment, Prometheus + Grafana & NGINX Ingress
+- **Achievement:** Automated CI/CD pipeline reducing manual steps by 90%
 
 #### 🗣️ Quorumify - Q&A Platform
 - **Tech Stack:** Java Spring Boot, ReactJS, MySQL, Docker, JWT
@@ -146,7 +156,7 @@ timeline
 |:---:|:---:|:---:|
 | Tenant Onboarding Automation | AWS Solutions Architecture | Kubernetes Mastery |
 | Infrastructure Provisioning | Advanced Terraform Patterns | Open Source Contributions |
-| Microservices Monitoring | GitOps with ArgoCD | Technical Blog Writing |
+| Microservices Monitoring | Kubernetes Deep Dive | Tech Blogging & 100DaysOfCode |
 
 </div>
 
