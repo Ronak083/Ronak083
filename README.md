@@ -21,20 +21,22 @@
 ```yaml
 kind: Ronak Gupta
 apiVersion: DevOps Engineer @ SS&C Technologies
-experience: "2 years"
+experience: "2+ years"
 metadata:
-  description: Building Bridge b/w Code & Cloud
+  description: Seeking a forward-deployed engineer role bridging infra depth with customer impact.
   labels:
-    - CICD
+    - DevOps
+    - Cloud Infrastructure
+    - Observability
   namespace: Cloud Maintenance
 path: Bengaluru, India
-skills: AWS Solutions Architecture & DevOps Ecosystem
+skills: AWS Solutions Architecture & Kubernetes Orchestration
 ```
 
-🔭 **Currently working on:** Tenant onboarding automation & AWS infrastructure provisioning  
-🌱 **Currently learning:** AWS Certified Solutions Architect (SAA-C03)  
-⚡ **Fun fact:** Completed #100DaysOfCode challenge and shared daily progress!  
-🎯 **2024 Goals:** Master Kubernetes orchestration & contribute to open-source DevOps tools
+🔭 **Currently working on:** Customer-facing cloud infrastructure at scale & automated tenant onboarding
+🌱 **Currently learning:** AWS Certified Solutions Architect (SAA-C03) & Kubernetes Deep Dive
+⚡ **Fun fact:** Completed #100DaysOfCode challenge (250+ days) and created a coding community!
+🎯 **2026 Goals:** Become a Forward-Deployed Engineer & consistently write interactive tech guides.
 
 ---
 
@@ -42,40 +44,45 @@ skills: AWS Solutions Architecture & DevOps Ecosystem
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Private Cloud](https://img.shields.io/badge/Private_Cloud-7B42BC?style=for-the-badge&logo=icloud&logoColor=white)
 
-### 🔧 DevOps & Automation
+### 📦 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx Ingress](https://img.shields.io/badge/Nginx_Ingress-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🔧 CI/CD & Automation
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white)
 
-### 💻 Programming & Scripting
+### 💻 Scripting & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Root](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-### 🗄️ Databases & Storage
+### 🗄️ Database & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 </div>
@@ -108,19 +115,22 @@ skills: AWS Solutions Architecture & DevOps Ecosystem
 ### 🌟 Project Highlights
 
 #### ☁️ Cloud Resume Challenge
-- **Tech Stack:** Terraform, AWS (S3, CloudFront, Lambda, DynamoDB), GitHub Actions
-- **Features:** Static website with serverless visitor counter, complete IaC automation
-- **Achievement:** 100% Infrastructure as Code with CI/CD pipeline
+- **Timeline:** *09/2025 – Present*
+- **Tech Stack:** Terraform, AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB), GitHub Actions
+- **Features:** Static resume website with HTTPS, serverless visitor count backend tracking users via DynamoDB.
+- **Achievement:** 100% automated CI/CD deployment from code to cloud.
 
 #### ⚙️ InfraOps — EKS Platform
-- **Tech Stack:** AWS EKS, Helm, GitHub Actions, ECR, Prometheus, Grafana
-- **Features:** Containerised app deployment, Prometheus + Grafana & NGINX Ingress
-- **Achievement:** Automated CI/CD pipeline reducing manual steps by 90%
+- **Timeline:** *09/2025 – Present*
+- **Tech Stack:** AWS EKS, Helm, GitHub Actions, ECR, Prometheus, Grafana, NGINX Ingress
+- **Features:** Containerized Quorumify app deployment via Helm, enabling rolling updates, autoscaling, and secure environment configs.
+- **Achievement:** Accelerated internal testing and feedback loops, realizing 30% faster release cycles. Automated pipelines reducing manual steps by 90%.
 
 #### 🗣️ Quorumify - Q&A Platform
-- **Tech Stack:** Java Spring Boot, ReactJS, MySQL, Docker, JWT
-- **Features:** Role-based access, REST APIs, responsive UI, containerized deployment
-- **Achievement:** Full-stack application with security implementation
+- **Timeline:** *12/2023 – 03/2024*
+- **Tech Stack:** Java, Spring Boot, ReactJS, MySQL, Docker, JWT
+- **Features:** Full-stack Quora-inspired platform with REST APIs and Role-based access mapped via Spring Security.
+- **Achievement:** Achieved 100% development-to-production parity by dockerizing the entire stack.
 
 ---
 
@@ -130,19 +140,18 @@ skills: AWS Solutions Architecture & DevOps Ecosystem
 timeline
     title Career Journey
     
-    2024-Present : DevOps Engineer @ SS&C Technologies
+    2024-Present : DevOps Engineer @ SS&C Technologies, Mumbai
                  : AWS Terraform Ansible CICD
-                 : Tenant Onboarding 
-                 : Monitoring (Prometheus, Grafana )
+                 : Tenant Onboarding Automation
+                 : Fluent Bit, Prometheus, Grafana
 
-    2023-2024    : Java Developer Intern @ Sphinx Solution
-                 : Web & App Development Projects
-                 : SpringBoot, Kotlin, Java, MYSQL
-                 : REST API development & DSA
+    2023-2024    : Java Developer Intern @ Sphinx Solution, Pune
+                 : Java, Spring Boot, MySQL
+                 : REST API & Role-Based Access
+                 : ReactJS Frontend Integration
                  
-    2020-2024    : B.Tech Computer Science
-                 : Bharati Vidyapeeth University: CGPA: 9.02/10
-                 : Computer Science, Networking, Operating System 
+    2020-2024    : B.Tech Computer Science @ Bharati Vidyapeeth, Pune
+                 : CGPA: 9.02/10
                  : NSS President
 ```
 
@@ -152,11 +161,11 @@ timeline
 
 <div align="center">
 
-| 🔭 Working On | 🌱 Learning | 🎯 Goals 2025 |
+| 🔭 Working On | 🌱 Learning | 🎯 Goal |
 |:---:|:---:|:---:|
-| Tenant Onboarding Automation | AWS Solutions Architecture | Kubernetes Mastery |
-| Infrastructure Provisioning | Advanced Terraform Patterns | Open Source Contributions |
-| Microservices Monitoring | Kubernetes Deep Dive | Tech Blogging & 100DaysOfCode |
+| Tenant Onboarding Automation | AWS Solutions Architecture | Forward-Deployed Engineer Role |
+| Production Observability (AWS) | Kubernetes Deep Dive | Interactive Tech Blogging |
+| Microservices Monitoring | Advanced GitOps / Helm | Community Tech Guides |
 
 </div>
 
@@ -164,11 +173,11 @@ timeline
 
 ## 🏅 Achievements & Certifications
 
-- 🎓 **AWS Certified Solutions Architect** (In Progress)
-- 👨‍💼 **NSS President** - Led 300+ volunteers, organized 15+ social events
-- 💻 **100 Days of Code** - Daily coding challenge with public learning
-- 🩸 **Blood Donation Drive** - Organized university's largest donation campaign
-- 🎯 **Academic Excellence** - 9.02 CGPA in Computer Science Engineering
+- 🎓 **AWS Certified Solutions Architect (SAA-C03)** - *In Progress*
+- 👨‍💼 **NSS President** - Led 300+ volunteers, organized 15+ social events, including the university's largest blood donation drive.
+- 💻 **100 Days of Code Challenge** - Shared daily coding progress on Twitter under `#100DaysOfCode` for 250+ days, building a thriving networking community.
+- 📝 **Tech Blogs (Hashnode/Medium)** - Writing interactive guides on Kubernetes, Linux, and AWS tools for beginners (e.g., *How to Start Your Kubernetes Journey Without Panic Attacks*).
+- 🎯 **Academic Excellence** - 9.02 CGPA in Computer Science Engineering (B.Tech 2020-2024).
 
 ---
 
