@@ -181,14 +181,6 @@ timeline
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-```text
-DevOps & Infrastructure    ████████████████████████░   90%
-Backend Development        ██████████████░░░░░░░░░░░   60% 
-Cloud Architecture         ████████████████████░░░░░   80%
-Automation & Scripting     ████████████████████████░   95%
-Learning & Research        ███████████████░░░░░░░░░░   70%
 ```
 
 ---
