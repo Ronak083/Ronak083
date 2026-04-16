@@ -132,28 +132,6 @@ skills: AWS Solutions Architecture & Kubernetes Orchestration
 - **Features:** Full-stack Quora-inspired platform with REST APIs and Role-based access mapped via Spring Security.
 - **Achievement:** Achieved 100% development-to-production parity by dockerizing the entire stack.
 
----
-
-## 💼 Professional Experience
-
-```mermaid
-timeline
-    title Career Journey
-    
-    2024-Present : DevOps Engineer @ SS&C Technologies, Mumbai
-                 : AWS Terraform Ansible CICD
-                 : Tenant Onboarding Automation
-                 : Fluent Bit, Prometheus, Grafana
-
-    2023-2024    : Java Developer Intern @ Sphinx Solution, Pune
-                 : Java, Spring Boot, MySQL
-                 : REST API & Role-Based Access
-                 : ReactJS Frontend Integration
-                 
-    2020-2024    : B.Tech Computer Science @ Bharati Vidyapeeth, Pune
-                 : CGPA: 9.02/10
-                 : NSS President
-```
 
 ---
 
@@ -178,10 +156,6 @@ timeline
 - 💻 **100 Days of Code Challenge** - Shared daily coding progress on Twitter under `#100DaysOfCode` for 250+ days, building a thriving networking community.
 - 📝 **Tech Blogs (Hashnode/Medium)** - Writing interactive guides on Kubernetes, Linux, and AWS tools for beginners (e.g., *How to Start Your Kubernetes Journey Without Panic Attacks*).
 - 🎯 **Academic Excellence** - 9.02 CGPA in Computer Science Engineering (B.Tech 2020-2024).
-
----
-
-```
 
 ---
 
