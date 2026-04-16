@@ -107,7 +107,7 @@ skills: AWS Solutions Architecture & Kubernetes Orchestration
 
 <div align="center">
 
-[![Cloud Resume Challenge](https://github-readme-stats.vercel.app/api/pin/?username=Ronak083&repo=cloud-resume-challenge&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)](https://github.com/Ronak083/cloud-resume-challenge)
+[![Cloud Resume Challenge](https://github-readme-stats.vercel.app/api/pin/?username=Ronak083&repo=CodeCloudResume&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)](https://github.com/Ronak083/CodeCloudResume)
 [![InfraOps - EKS Platform](https://github-readme-stats.vercel.app/api/pin/?username=Ronak083&repo=Kubernetes&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)](https://github.com/Ronak083/Kubernetes)
 [![Quorumify](https://github-readme-stats.vercel.app/api/pin/?username=Ronak083&repo=quorumify&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)](https://github.com/Ronak083/quorumify)
 
