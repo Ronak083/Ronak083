@@ -28,7 +28,6 @@ metadata:
   labels:
     - DevOps
     - Cloud Infrastructure
-    - Observability
   namespace: Cloud Maintenance
 path: Bengaluru, India
 skills: AWS Solutions Architecture & Kubernetes Orchestration
